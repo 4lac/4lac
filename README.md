@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Ruyuf Alzaydani — a Cybersecurity & IT Specialist from Saudi Arabia 🇸🇦</h2>
+<h2 align="left"> Cybersecurity & IT Specialist</h2>
 <h4 align="left">💻 Passionate about ethical hacking, vulnerability assessment & digital forensics</h4>
 
 ###
