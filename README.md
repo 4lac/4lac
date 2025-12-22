@@ -51,4 +51,20 @@
 
 <img src="https://raw.githubusercontent.com/4lac/4lac/output/snake.svg" alt="Snake animation" />
 
+## 🖼️ Visual Match Detector
+
+A Python GUI application to compare two images and detect visual matches using ORB and homography.
+
+### Features
+| Feature                  | Description                                       |
+|--------------------------|---------------------------------------------------|
+| Upload Images            | Upload two images to compare                      |
+| Preview Images           | See images before comparison                      |
+| Visual Match Detection   | Detect regions that match using ORB & Homography |
+| Compare Button           | Click to compare and show matches visually       |
+| Technology Used          | Python, OpenCV, Tkinter, NumPy, Pillow           |
+
+### Screenshot / Animation
+<img src="https://raw.githubusercontent.com/4lac/4lac/main/screenshot.png" alt="Screenshot of project" width="500" />
+
 ###
