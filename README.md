@@ -65,6 +65,7 @@ A Python GUI application to compare two images and detect visual matches using O
 | Technology Used          | Python, OpenCV, Tkinter, NumPy, Pillow           |
 
 ### Screenshot / Animation
-<img src="https://raw.githubusercontent.com/4lac/4lac/main/screenshot.png" alt="visual-match.png" width="500" />
+<img src="https://raw.githubusercontent.com/4lac/4lac/main/screenshot.png" alt="visual-match.png" width="500" /><img width="771" height="651" alt="visual-match" src="https://github.com/user-attachments/assets/1286c8fc-3026-44e2-b5b0-71fff59c0f42" />
+
 
 ###
