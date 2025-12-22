@@ -59,7 +59,5 @@ A Python GUI app that compares two images and detects visual similarity using OR
 🔹 Preview images before comparison  
 🔹 Visual match & region detection  
 
-<img src="https://raw.githubusercontent.com/4lac/4lac/main/screenshot.png" width="450" />
-
 🔗 Repository: 
 https://github.com/4lac/Visual-Match-Detector
