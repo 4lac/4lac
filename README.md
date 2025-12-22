@@ -53,19 +53,13 @@
 
 ## 🖼️ Visual Match Detector
 
-A Python GUI application to compare two images and detect visual matches using ORB and homography.
+A Python GUI app that compares two images and detects visual similarity using ORB feature matching.
 
-### Features
-| Feature                  | Description                                       |
-|--------------------------|---------------------------------------------------|
-| Upload Images            | Upload two images to compare                      |
-| Preview Images           | See images before comparison                      |
-| Visual Match Detection   | Detect regions that match using ORB & Homography |
-| Compare Button           | Click to compare and show matches visually       |
-| Technology Used          | Python, OpenCV, Tkinter, NumPy, Pillow           |
+🔹 Upload two images  
+🔹 Preview images before comparison  
+🔹 Visual match & region detection  
 
-### Screenshot / Animation
-<img src="https://raw.githubusercontent.com/4lac/4lac/main/screenshot.png" alt="visual-match.png" width="500" />
+<img src="https://raw.githubusercontent.com/4lac/4lac/main/screenshot.png" width="450" />
 
-
-###
+🔗 Repository: 
+https://github.com/4lac/Visual-Match-Detector
