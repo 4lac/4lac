@@ -85,4 +85,5 @@ The long‑term vision is to expand it into a modular engine capable of analyzin
 - Automated response attempts
   
 🔗 Repository:
-https://github.com/4lac/iot-scanner (github.com in Bing)
+
+https://github.com/4lac/iot-scanner
