@@ -59,6 +59,21 @@ A Python GUI app that compares two images and detects visual similarity using OR
 🔹 Preview images before comparison  
 🔹 Visual match & region detection  
 
-🔗 Repository: 
+🔗 **Repository:** 
 https://github.com/4lac/Visual-Match-Detector
+
+## 🧊 ColdCase — Digital Forensic Code Scanner
+
+A C-based forensic-style code scanner that analyzes source files like a detective investigating a cold case.  
+It searches for suspicious traces such as TODOs, FIXMEs, exposed secrets, deprecated functions, and metadata anomalies — then generates a narrative forensic report.
+
+### 🔹 Features:
+- Line‑by‑line forensic scanning  
+- Detection of TODO / FIXME traces  
+- Exposure detection (passwords, keys, risky patterns)  
+- Deprecated or unsafe function alerts  
+- File metadata analysis (age, issue count, risk level)  
+- Color‑coded terminal report  
+
+🔗 **Repository:**  
 https://github.com/4lac/ColdCase
