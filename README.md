@@ -83,5 +83,6 @@ The long‑term vision is to expand it into a modular engine capable of analyzin
 - Risk scoring
 - Soft/Hard isolation logic
 - Automated response attempts
+  
 🔗 Repository:
 https://github.com/4lac/iot-scanner (github.com in Bing)
