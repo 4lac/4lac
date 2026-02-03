@@ -65,3 +65,23 @@ It searches for suspicious traces such as TODOs, FIXMEs, exposed secrets, deprec
 
 🔗 **Repository:**  
 https://github.com/4lac/ColdCase
+
+🧩 IoT‑Scanner — Adaptive IoT Network Mapping & Behavior Engine
+A C‑based IoT network scanner built as the first step toward a larger adaptive security framework.
+It performs low‑level ARP/ICMP/SNMP probing to map devices on a LAN, classify vendors, and reveal early indicators of abnormal behavior.
+This is not a perfect or finished tool — it’s an evolving experiment that currently focuses only on network scanning, and may contain bugs, missing features, or rough edges.
+The long‑term vision is to expand it into a modular engine capable of analyzing IoT behavior, detecting risks, and eventually isolating suspicious devices.
+🔹 Features (Current Stage)
+- ARP‑based device discovery
+- ICMP probing for active hosts
+- Basic SNMP enumeration
+- MAC vendor classification
+- Lightweight C implementation using raw sockets
+🔹 Future Direction
+- Device fingerprinting
+- Behavior deviation detection
+- Risk scoring
+- Soft/Hard isolation logic
+- Automated response attempts
+🔗 Repository:
+https://github.com/4lac/iot-scanner (github.com in Bing)
