@@ -61,3 +61,4 @@ A Python GUI app that compares two images and detects visual similarity using OR
 
 🔗 Repository: 
 https://github.com/4lac/Visual-Match-Detector
+https://github.com/4lac/ColdCase
