@@ -35,7 +35,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://githubreadmestats.vercel.app/apiusername=4lac&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+
 </div>
 <img src="https://raw.githubusercontent.com/4lac/4lac/output/snake.svg" alt="Snake animation" />
 
