@@ -7,22 +7,17 @@
 <p align="center">
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=1200&height=60&lines=IT%20Graduate%20%7C%20Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Reverse%20Engineering%20%7C%20Low-Level%20Systems"
-      alt="IT Graduate Cybersecurity Offensive Security Reverse Engineering Low-Level Systems"
-    />
+    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=IT%20Graduate%20%7C%20Cybersecurity%20%7C%20Offensive%20Security" alt="" />
   </a>
 
   <br>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=24&pause=900&color=7DF9FF&center=true&vCenter=true&width=1000&height=60&lines=Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80"
-      alt="Always coding learning shipping"
-    />
+    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=Reverse%20Engineering%20%7C%20Low-Level%20Systems%20%7C%20Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" />
   </a>
 
-</p> 
+</p>
+
 <br/>
 
 <a href="https://github.com/4lac"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
