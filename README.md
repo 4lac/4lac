@@ -1,181 +1,232 @@
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+
+<p><sub>CYBERSECURITY · OFFENSIVE SECURITY · LOW-LEVEL SYSTEMS</sub></p>
+
+<h1>Ruyuf</h1>
+
+<h2>Cybersecurity &amp; Offensive Security</h2>
+
+<p>
+IT Graduate focused on vulnerability analysis, exploit development,
+reverse engineering, programming, and low-level systems.
+</p>
+
+<p><strong>● Building security-focused projects and exploring how systems work beneath the surface.</strong></p>
+
+<p>
+<a href="https://github.com/4lac">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/ruyuf-alzaydani/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://x.com/4lavc">X</a>
+</p>
+
+</td>
+
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/172062012?v=4" width="180" alt="Ruyuf GitHub avatar" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2>⚡ Focus Areas</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3>🔐 Offensive Security</h3>
+<p>
+Vulnerability Analysis<br>
+Exploit Development<br>
+Security Research
+</p>
+</td>
+
+<td width="33%" valign="top">
+<h3>🧬 Reverse Engineering</h3>
+<p>
+Binary Analysis<br>
+Windows Internals<br>
+x86/x64 Assembly
+</p>
+</td>
+
+<td width="33%" valign="top">
+<h3>💻 Systems &amp; Code</h3>
+<p>
+C / C++<br>
+Python<br>
+Low-Level Programming
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2>🛠️ Technical Toolkit</h2>
+
+<h3>Languages</h3>
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=2500&color=00FF88&center=true&vCenter=true&width=1000&height=120&lines=IT+Graduate+%7C+Cybersecurity+%7C+Offensive+Security;Low-Level+Systems+%7C+Reverse+Engineering+%7C+Security+Research;Exploit+Development+%7C+Vulnerability+Analysis"
-    alt="Cybersecurity Profile"
-  />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,php,mysql" />
+</p>
+
+<h3>Security &amp; Development</h3>
+
+<p align="center">
+<code>IDA Pro</code>
+<code>Ghidra</code>
+<code>WinDbg</code>
+<code>x64dbg</code>
+<code>radare2</code>
+<code>WSL</code>
+<code>Linux</code>
+<code>Git</code>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
+<h2>🔬 Selected Projects</h2>
 
-<h3 align="center">💻 Languages</h3>
+<table width="100%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,php" />
+<tr>
+<td width="50%" valign="top">
+
+<h3>📡 <a href="https://github.com/4lac/iot-scanner">IoT-Scanner</a></h3>
+
+<p>
+C-based IoT network mapper focused on discovering and identifying
+devices through low-level network probing.
 </p>
 
-<h3 align="center">🔐 Security & Reverse Engineering</h3>
+<p>
+<code>C</code> · <code>ARP</code> · <code>ICMP</code> · <code>SNMP</code> · <code>Raw Sockets</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧊 <a href="https://github.com/4lac/ColdCase">ColdCase</a></h3>
+
+<p>
+Forensic-style C scanner that analyzes source code for suspicious
+patterns, exposed secrets, risky functions, and metadata anomalies.
+</p>
+
+<p>
+<code>C</code> · <code>Static Analysis</code> · <code>Forensics</code>
+</p>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🖼️ <a href="https://github.com/4lac/Visual-Match-Detector">Visual Match Detector</a></h3>
+
+<p>
+Python GUI application using computer vision and ORB feature matching
+to compare images and identify visual similarities.
+</p>
+
+<p>
+<code>Python</code> · <code>OpenCV</code> · <code>ORB</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ <a href="https://github.com/4lac/fivem-audit">FiveM Audit</a></h3>
+
+<p>
+Passive security auditing tool for FiveM server resources and
+security-related configuration checks.
+</p>
+
+<p>
+<code>Python</code> · <code>Security Auditing</code>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2>📚 Currently Exploring</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git" />
+
+<code>Exploit Development</code> <code>Reverse Engineering</code> <code>Windows Internals</code> <code>Assembly</code> <code>Vulnerability Analysis</code>
+
 </p>
 
 <p align="center">
-  <code>IDA Pro</code>
-  <code>Ghidra</code>
-  <code>WinDbg</code>
-  <code>x64dbg</code>
-  <code>radare2</code>
-  <code>WSL</code>
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<strong>Learning how software works, finding where it breaks, and understanding why.</strong>
 </p>
 
 ---
 
-<h2 align="center">☠️ Security Focus</h2>
+<h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  Vulnerability Analysis • Exploit Development • Reverse Engineering
-  <br>
-  Windows Internals • x86/x64 Assembly • Binary Analysis
-  <br>
-  Network Security • Digital Forensics • Low-Level Programming
-</p>
 
----
+<img
+src="https://github-readme-stats.vercel.app/api?username=4lac&show_icons=true&hide_border=true&theme=github_dark&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9"
+/>
 
-<h2>🔬 Projects</h2>
-
-<h3>🖼️ Visual Match Detector</h3>
-
-<p>
-A Python GUI application that compares two images and detects visual
-similarity using ORB feature matching.
-</p>
-
-<ul>
-  <li>Upload and compare two images</li>
-  <li>Preview images before analysis</li>
-  <li>ORB feature matching</li>
-  <li>Visual match & region detection</li>
-</ul>
-
-<p>
-  🔗 <b>Repository:</b>
-  <a href="https://github.com/4lac/Visual-Match-Detector">
-    Visual-Match-Detector
-  </a>
-</p>
-
----
-
-<h3>🧊 ColdCase — Digital Forensic Code Scanner</h3>
-
-<p>
-A C-based forensic-style source code scanner designed to investigate
-source files for suspicious traces, risky patterns, and metadata anomalies.
-</p>
-
-<h4>🔎 Features</h4>
-
-<ul>
-  <li>Line-by-line forensic scanning</li>
-  <li>TODO / FIXME trace detection</li>
-  <li>Exposed password & key detection</li>
-  <li>Risky and deprecated function detection</li>
-  <li>File metadata analysis</li>
-  <li>Risk-level assessment</li>
-  <li>Color-coded terminal reports</li>
-</ul>
-
-<p>
-  🔗 <b>Repository:</b>
-  <a href="https://github.com/4lac/ColdCase">
-    ColdCase
-  </a>
-</p>
-
----
-
-<h3>📡 IoT-Scanner — Adaptive IoT Network Mapper</h3>
-
-<p>
-A C-based IoT network scanner that maps devices on a local network using
-low-level ARP, ICMP, and SNMP probing.
-</p>
-
-<p>
-The current version focuses on network discovery and device identification.
-The project is still under development, with future plans for behavioral
-analysis, risk assessment, and device isolation.
-</p>
-
-<h4>🔎 Current Features</h4>
-
-<ul>
-  <li>ARP-based device discovery</li>
-  <li>ICMP probing for active hosts</li>
-  <li>Basic SNMP enumeration</li>
-  <li>MAC vendor classification</li>
-  <li>Raw-socket networking in C</li>
-</ul>
-
-<h4>🧠 Future Direction</h4>
-
-<ul>
-  <li>Device fingerprinting</li>
-  <li>Behavior deviation detection</li>
-  <li>Risk scoring</li>
-  <li>Soft / hard isolation logic</li>
-  <li>Automated response mechanisms</li>
-</ul>
-
-<p>
-  🔗 <b>Repository:</b>
-  <a href="https://github.com/4lac/iot-scanner">
-    iot-scanner
-  </a>
-</p>
-
----
-
-<h2 align="center">📡 Current Learning</h2>
-
-<p align="center">
-  <code>Exploit Development</code>
-  <code>Reverse Engineering</code>
-  <code>Windows Internals</code>
-  <code>Assembly</code>
-  <code>Vulnerability Analysis</code>
-</p>
-
----
-
-<h2 align="center">🌐 Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruyuf-alzaydani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
-  </a>
-  <a href="https://x.com/4lavc">
-    <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF88" />
-  </a>
-  <a href="https://discord.com/users/4lax_8292">
-    <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=00FF88" />
-  </a>
-  <a href="https://www.twitch.tv/4lavc">
-    <img src="https://img.shields.io/badge/Twitch-0A0A0A?style=for-the-badge&logo=twitch&logoColor=00FF88" />
-  </a>
 </p>
 
 <p align="center">
-  <code>root@ruyuf:~$ whoami</code>
-  <br>
-  <code>cybersecurity enthusiast exploring systems, vulnerabilities & code.</code>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=4lac&theme=github-dark&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"
+/>
+
+</p>
+
+---
+
+<h2>🌐 Connect</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ruyuf-alzaydani/">
+<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
+</a>
+
+<a href="https://x.com/4lavc">
+<img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF88" />
+</a>
+
+<a href="https://discord.com/users/4lax_8292">
+<img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=00FF88" />
+</a>
+
+<a href="https://www.twitch.tv/4lavc">
+<img src="https://img.shields.io/badge/Twitch-0A0A0A?style=for-the-badge&logo=twitch&logoColor=00FF88" />
+</a>
+
+</p>
+
+<p align="center">
+<code>root@ruyuf:~$ whoami</code>
+<br>
+<sub>Cybersecurity enthusiast exploring systems, vulnerabilities &amp; code.</sub>
 </p>
