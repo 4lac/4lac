@@ -70,54 +70,30 @@
 <h3>
 <a href="https://github.com/4lac/fivem-audit">fivem-audit</a>
 </h3>
-
 <p>Passive security auditor for FiveM servers.</p>
-
 <p><sub>Python · ⭐ 0</sub></p>
-
-<p>
-<a href="https://github.com/4lac/fivem-audit">
-Read the repository →
-</a>
-</p>
 </td>
 
 <td width="25%" valign="top">
 <h3>
 <a href="https://github.com/4lac/iot-scanner">iot-scanner</a>
 </h3>
-
 <p>
 C-based IoT network scanner focused on discovering and identifying
 devices on local networks.
 </p>
-
 <p><sub>C · ⭐ 0</sub></p>
-
-<p>
-<a href="https://github.com/4lac/iot-scanner">
-Read the repository →
-</a>
-</p>
 </td>
 
 <td width="25%" valign="top">
 <h3>
 <a href="https://github.com/4lac/ColdCase">ColdCase</a>
 </h3>
-
 <p>
 C-based forensic-style source code scanner for suspicious patterns,
 exposed secrets, and source-code anomalies.
 </p>
-
 <p><sub>C · ⭐ 0</sub></p>
-
-<p>
-<a href="https://github.com/4lac/ColdCase">
-Read the repository →
-</a>
-</p>
 </td>
 
 <td width="25%" valign="top">
@@ -126,19 +102,11 @@ Read the repository →
 Visual-Match-Detector
 </a>
 </h3>
-
 <p>
 Python GUI tool for comparing images using computer vision and
 ORB feature matching.
 </p>
-
 <p><sub>Python · ⭐ 0</sub></p>
-
-<p>
-<a href="https://github.com/4lac/Visual-Match-Detector">
-Read the repository →
-</a>
-</p>
 </td>
 
 </tr>
