@@ -174,8 +174,6 @@ A simple Python GUI tool for comparing two images using computer vision.
 
 <br/>
 
-- **4lac** — Featured work · <a href="https://github.com/4lac/4lac"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
 </details>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
