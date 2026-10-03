@@ -38,7 +38,7 @@ Exploring vulnerability analysis, exploit development, programming, and low-leve
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## ⚔️ Tech Arsenal
+## 🛠️ Tech Stack & Arsenal
 
 <h3 align="center">💻 Languages</h3>
 
