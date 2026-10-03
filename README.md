@@ -40,15 +40,21 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1800&color=00FF88&center=true&vCenter=true&width=1000&height=40&lines=Vulnerability+Analysis+%7C+Exploit+Development+%7C+Reverse+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1800&color=00FF88&center=true&vCenter=true&width=900&height=40&lines=Vulnerability+Analysis+%7C+Exploit+Development"
     alt="Security Focus"
   />
   <br>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1800&color=00FF88&center=true&vCenter=true&width=1000&height=40&lines=Windows+Internals+%7C+Assembly+%7C+Binary+Analysis+%7C+Network+Security+%7C+Digital+Forensics"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1800&color=00FF88&center=true&vCenter=true&width=900&height=40&lines=Reverse+Engineering+%7C+Windows+Internals+%7C+Assembly"
+    alt="Security Focus"
+  />
+  <br>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1800&color=00FF88&center=true&vCenter=true&width=900&height=40&lines=Binary+Analysis+%7C+Network+Security+%7C+Digital+Forensics"
     alt="Security Focus"
   />
 </p>
+
 
 ---
 <h2>Selected Work</h2>
