@@ -50,7 +50,6 @@
 
 <h2>Selected Work</h2>
 
-<!-- Projects Overview -->
 <p align="center">
   <picture>
     <source
@@ -60,62 +59,68 @@
     <img
       src="https://www.gitskins.com/api/section/projects?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&repos=4lac%2Ffivem-audit%2C4lac%2Fiot-scanner%2C4lac%2FColdCase%2C4lac%2FVisual-Match-Detector&v=recruiter-projects-1&mode=dark"
       width="100%"
-      alt="Selected cybersecurity projects"
+      alt="Selected projects"
     />
   </picture>
 </p>
 
 <br>
 
-<!-- Project Table -->
 <table width="100%">
 <tr>
 
 <td width="25%" valign="top">
+
 <h3>
 <a href="https://github.com/4lac/fivem-audit">fivem-audit</a>
 </h3>
 
 <p>
-Passive security auditing tool for FiveM servers.
+Passive security auditor for FiveM servers.
 </p>
 
 <p>
-<sub>Python · Security Auditing</sub>
+<sub>Python · 100% Complete</sub>
 </p>
+
 </td>
 
 <td width="25%" valign="top">
+
 <h3>
 <a href="https://github.com/4lac/iot-scanner">iot-scanner</a>
 </h3>
 
 <p>
-C-based IoT network scanner focused on discovering and identifying
-devices on local networks.
+C-based IoT network scanner focused on device discovery and
+identification on local networks.
 </p>
 
 <p>
-<sub>C · In Development</sub>
+<sub>C · 40% · In Development</sub>
 </p>
+
 </td>
 
 <td width="25%" valign="top">
+
 <h3>
 <a href="https://github.com/4lac/ColdCase">ColdCase</a>
 </h3>
 
 <p>
-C-based forensic-style scanner for detecting suspicious patterns,
+C-based forensic-style source code scanner for suspicious patterns,
 exposed secrets, risky functions, and source-code anomalies.
 </p>
 
 <p>
-<sub>C · Digital Forensics</sub>
+<sub>C · 100% Complete</sub>
 </p>
+
 </td>
 
 <td width="25%" valign="top">
+
 <h3>
 <a href="https://github.com/4lac/Visual-Match-Detector">
 Visual-Match-Detector
@@ -123,13 +128,14 @@ Visual-Match-Detector
 </h3>
 
 <p>
-Python GUI tool for image comparison using computer vision and
+Python GUI tool for comparing images using computer vision and
 ORB feature matching.
 </p>
 
 <p>
-<sub>Python · OpenCV</sub>
+<sub>Python · 100% Complete</sub>
 </p>
+
 </td>
 
 </tr>
