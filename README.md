@@ -117,7 +117,9 @@ Multi-stage IoT device scanner using ARP, ICMP, SNMP and MAC-based vendor classi
 
 `C` · `0 stars`
 
-<a href="https://github.com/4lac/iot-scanner"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/4lac/iot-scanner">
+  <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
+</a>
 
 </td>
 </tr>
@@ -130,7 +132,9 @@ ColdCase — A digital forensic scanner that investigates source code files, det
 
 `C` · `0 stars`
 
-<a href="https://github.com/4lac/ColdCase"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/4lac/ColdCase">
+  <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -141,7 +145,9 @@ A simple Python GUI tool for comparing two images using computer vision.
 
 `Python` · `0 stars`
 
-<a href="https://github.com/4lac/Visual-Match-Detector"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/4lac/Visual-Match-Detector">
+  <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
+</a>
 
 </td>
 </tr>
