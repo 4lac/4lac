@@ -1,19 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=Initializing+Cyber+Operations...;Analyzing+Binary+Structures...;Tracing+Memory+Artifacts...;Hunting+Vulnerabilities...;Reverse+Engineering+The+Unknown...;Building+%26+Breaking+Systems..." />
-</p>
-
-<h2 align="center">⚡ RUYUF // CYBERSECURITY</h2>
-
-<p align="center">
-  <b>IT Graduate • Cybersecurity • Offensive Security • Low-Level Systems</b>
-</p>
-
-<p align="center">
-  <code>[ SYSTEM ONLINE ]</code>
-  &nbsp;
-  <code>[ SECURITY RESEARCH ]</code>
-  &nbsp;
-  <code>[ BUILDING & BREAKING ]</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=%E2%9A%A1+RUYUF+%2F%2F+CYBERSECURITY;IT+Graduate+%E2%80%A2+Cybersecurity+%E2%80%A2+Offensive+Security+%E2%80%A2+Low-Level+Systems;%5B+SYSTEM+ONLINE+%5D+%5B+SECURITY+RESEARCH+%5D;%5B+BUILDING+%26+BREAKING+%5D" alt="Typing SVG" />
 </p>
 ---
 
