@@ -102,7 +102,7 @@ Exploring vulnerability analysis, exploit development, programming, and low-leve
 
 Passive security auditor for FiveM servers
 
-`Python` · `0 stars`
+`Python`
 
 <a href="https://github.com/4lac/fivem-audit">
   <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
@@ -115,7 +115,7 @@ Passive security auditor for FiveM servers
 
 Multi-stage IoT device scanner using ARP, ICMP, SNMP and MAC-based vendor classification.
 
-`C` · `0 stars`
+`C`
 
 <a href="https://github.com/4lac/iot-scanner">
   <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
@@ -130,7 +130,7 @@ Multi-stage IoT device scanner using ARP, ICMP, SNMP and MAC-based vendor classi
 
 ColdCase — A digital forensic scanner that investigates source code files, detects anomalies like TODOs, password leaks, eval usage, and FIXMEs, and generates a narrative forensic report. Designed and narrated by Riyouf.
 
-`C` · `0 stars`
+`C`
 
 <a href="https://github.com/4lac/ColdCase">
   <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
@@ -143,7 +143,7 @@ ColdCase — A digital forensic scanner that investigates source code files, det
 
 A simple Python GUI tool for comparing two images using computer vision.
 
-`Python` · `0 stars`
+`Python`
 
 <a href="https://github.com/4lac/Visual-Match-Detector">
   <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
