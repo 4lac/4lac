@@ -35,15 +35,15 @@
 </p>
 
 ---
-
 <h2 align="center">⚡ Security Focus</h2>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1800&color=00FF88&center=true&vCenter=true&width=1000&height=100&lines=Vulnerability+Analysis+%7C+Exploit+Development+%7C+Reverse+Engineering;Windows+Internals+%7C+Assembly+%7C+Binary+Analysis+%7C+Network+Security+%7C+Digital+Forensics"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1800&color=00FF88&center=true&vCenter=true&width=1000&height=80&lines=Vulnerability+Analysis+%E2%80%A2+Exploit+Development+%E2%80%A2+Reverse+Engineering%3Cbr%3EWindows+Internals+%E2%80%A2+Assembly+%E2%80%A2+Binary+Analysis+%E2%80%A2+Network+Security"
     alt="Security Focus"
   />
 </p>
+
 
 ---
 <h2>Selected Work</h2>
