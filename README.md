@@ -43,7 +43,7 @@ I build useful software and enjoy turning ambitious ideas into working products.
   <img src="https://cdn.simpleicons.org/x/7DF9FF" width="32" alt="X" />
 </a>
 
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
+<img src="https://komarev.com/ghpvc/?username=4lac&style=for-the-badge&color=7B5CFF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
