@@ -1,7 +1,12 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=180&lines=IT+Graduate+%7C+Cybersecurity+%7C+Offensive+Security;Low-Level+Systems+%7C+Reverse+Engineering;[+SYSTEM+ONLINE+]+[+SECURITY+RESEARCH+];[+BUILDING+%26+BREAKING+]"
-    alt="Cybersecurity Profile"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=45&lines=IT+Graduate+%7C+Cybersecurity+%7C+Offensive+Security"
+    alt="IT Graduate Cybersecurity"
+  />
+  <br>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=45&lines=Low-Level+Systems+%7C+Reverse+Engineering+%7C+Security+Research"
+    alt="Low-Level Systems Reverse Engineering"
   />
 </p>
 
