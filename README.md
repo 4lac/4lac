@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=850&height=120&lines=%E2%9A%A1+RUYUF+%2F+CYBERSECURITY;IT+Graduate+%7C+Cybersecurity+%7C+Offensive+Security+%7C+Low-Level+Systems;%5B+SYSTEM+ONLINE+%5D+%5B+SECURITY+RESEARCH+%5D+%5B+BUILDING+%26+BREAKING+%5D"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=150&lines=IT+Graduate+%7C+Cybersecurity+%7C+Offensive+Security+%7C+Low-Level+Systems;%5B+SYSTEM+ONLINE+%5D+%5B+SECURITY+RESEARCH+%5D+%5B+BUILDING+%26+BREAKING+%5D;Reverse+Engineering+%7C+Exploit+Development+%7C+Vulnerability+Analysis;Analyzing+Systems+%7C+Breaking+Systems+%7C+Building+Security"
+    alt="Cybersecurity Profile"
   />
 </p>
 
