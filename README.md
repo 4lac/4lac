@@ -19,15 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  🐍 Python
-🇨 C
-C++
-☕ Java
-🟨 JavaScript
-🌐 HTML
-🎨 CSS
-🐘 PHP
-🗄️ SQL / MySQL
+
 </div>
 
 <div align="center">
