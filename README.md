@@ -20,6 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
 </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ruyuf-alzaydani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -34,10 +35,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </div>
-<div align="center">
-
-</div>
-<img src="https://raw.githubusercontent.com/4lac/4lac/output/snake.svg" alt="Snake animation" />
 
 ## 🖼️ Visual Match Detector
 
@@ -56,27 +53,30 @@ A C-based forensic-style code scanner that analyzes source files like a detectiv
 It searches for suspicious traces such as TODOs, FIXMEs, exposed secrets, deprecated functions, and metadata anomalies — then generates a narrative forensic report.
 
 ### 🔹 Features:
-- Line‑by‑line forensic scanning  
+- Line-by-line forensic scanning  
 - Detection of TODO / FIXME traces  
 - Exposure detection (passwords, keys, risky patterns)  
 - Deprecated or unsafe function alerts  
 - File metadata analysis (age, issue count, risk level)  
-- Color‑coded terminal report  
+- Color-coded terminal report  
 
-🔗 **Repository:**  https://github.com/4lac/ColdCase
+🔗 **Repository:**  
+https://github.com/4lac/ColdCase
 
-## 🧩 IoT‑Scanner — Adaptive IoT Network Mapper
-A C‑based IoT network scanner that maps devices on a local network using low‑level ARP, ICMP, and SNMP probing.  
+## 🧩 IoT-Scanner — Adaptive IoT Network Mapper
+
+A C-based IoT network scanner that maps devices on a local network using low-level ARP, ICMP, and SNMP probing.  
 It identifies active hosts, classifies vendors through MAC lookup, and forms the first building block of a future adaptive IoT security engine.
+
 This tool is still in its early stage and **not perfect** — it currently focuses only on **network scanning**, and may contain bugs, missing features, or rough edges.  
 Future versions aim to expand into behavior analysis, risk scoring, and device isolation.
 
 ### 🔹 Features (Current)
-- ARP‑based device discovery  
+- ARP-based device discovery  
 - ICMP probing for active hosts  
 - Basic SNMP enumeration  
 - MAC vendor classification  
-- Lightweight raw‑socket implementation in C  
+- Lightweight raw-socket implementation in C  
 
 ### 🔹 Future Direction
 - Device fingerprinting  
@@ -87,5 +87,3 @@ Future versions aim to expand into behavior analysis, risk scoring, and device i
 
 🔗 **Repository:**  
 https://github.com/4lac/iot-scanner
-
-
