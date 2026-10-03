@@ -135,6 +135,7 @@ A simple Python GUI tool for comparing two images using computer vision.
 <div align="center">
   <img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" />
 </div>
+
 ## 🏆 Beyond the Code
 
 * 🧠 **Profile signal:** 128 contributions in the last year
