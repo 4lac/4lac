@@ -1,4 +1,8 @@
-<h1 align="center">⚡ RUYUF // CYBERSECURITY</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=Initializing+Cyber+Operations...;Analyzing+Binary+Structures...;Tracing+Memory+Artifacts...;Hunting+Vulnerabilities...;Reverse+Engineering+The+Unknown...;Building+%26+Breaking+Systems..." />
+</p>
+
+<h2 align="center">⚡ RUYUF // CYBERSECURITY</h2>
 
 <p align="center">
   <b>IT Graduate • Cybersecurity • Offensive Security • Low-Level Systems</b>
@@ -11,7 +15,6 @@
   &nbsp;
   <code>[ BUILDING & BREAKING ]</code>
 </p>
-
 ---
 
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
