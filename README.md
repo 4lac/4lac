@@ -186,7 +186,7 @@ A simple Python GUI tool for comparing two images using computer vision.
 
 * 🧠 **Profile signal:** 128 contributions in the last year
 * 🚀 **Builder energy:** 5 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
+* 💻 **Focused on:** Cybersecurity, software development & low-level systems
 * 🗣️ **Open to:** interesting collaborations and useful products
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
