@@ -45,6 +45,9 @@ I build useful software and enjoy turning ambitious ideas into working products.
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=4lac&style=for-the-badge&color=7B5CFF&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/4lac?tab=followers">
+  <img src="https://img.shields.io/github/followers/4lac?style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&color=00FFA3" alt="GitHub followers" />
+</a>
  </br>
 </div>
 
