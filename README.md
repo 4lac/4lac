@@ -32,15 +32,15 @@
 I build useful software and enjoy turning ambitious ideas into working products.
 
 <a href="https://github.com/4lac">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/7DF9FF" width="32" alt="GitHub" />
 </a>
 
 <a href="https://discord.com/users/4lax_8292">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+  <img src="https://cdn.simpleicons.org/discord/7DF9FF" width="32" alt="Discord" />
 </a>
 
 <a href="https://x.com/4lavc">
-  <img src="https://cdn.simpleicons.org/x/7DF9FF" height="40" alt="X" />
+  <img src="https://cdn.simpleicons.org/x/7DF9FF" width="32" alt="X" />
 </a>
 
 <a href="https://github.com/4lac"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
