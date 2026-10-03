@@ -4,7 +4,7 @@
     alt="Typing SVG"
   />
 </p>
----
+
 
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
