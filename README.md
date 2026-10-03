@@ -35,6 +35,14 @@ I build useful software and enjoy turning ambitious ideas into working products.
   <img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="Start a conversation" />
 </a>
 
+<a href="https://discord.com/users/4lax_8292">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" />
+</a>
+
+<a href="https://x.com/4lavc">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" />
+</a> 
+
 <a href="https://github.com/4lac"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
 
 <img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
