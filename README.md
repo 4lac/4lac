@@ -40,18 +40,32 @@ Exploring vulnerability analysis, exploit development, programming, and low-leve
 
 ## ⚔️ Tech Arsenal
 
-<div align="center">
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,php" />
 </p>
 
-<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&amp;labelColor=0d1117" alt="C" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" />
+<h3 align="center">🔐 Security & Reverse Engineering</h3>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git" />
+</p>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<p align="center">
+  <code>IDA Pro</code>
+  <code>Ghidra</code>
+  <code>WinDbg</code>
+  <code>x64dbg</code>
+  <code>radare2</code>
+  <code>WSL</code>
+</p>
 
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 ## 🌌 Featured Projects
 
 <table>
