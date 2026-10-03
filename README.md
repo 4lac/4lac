@@ -5,6 +5,8 @@
   />
 </p>
 
+---
+
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
 <h3 align="center">💻 Languages</h3>
@@ -28,10 +30,10 @@
   <code>WSL</code>
 </p>
 
-<h3 align="center">🗄️ Databases & Web</h3>
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,js,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
@@ -44,22 +46,6 @@
   Windows Internals • x86/x64 Assembly • Binary Analysis
   <br>
   Network Security • Digital Forensics • Low-Level Programming
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=2500&color=00FF88&center=true&vCenter=true&width=1000&height=120&lines=IT+Graduate+%7C+Cybersecurity+%7C+Offensive+Security;Low-Level+Systems+%7C+Reverse+Engineering+%7C+Security+Research;Exploit+Development+%7C+Vulnerability+Analysis"
-    alt="Cybersecurity Profile"
-  />
-</p>
----
-
-<h2 align="center">⚡ SYSTEM ACTIVITY</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=Initializing+Cyber+Operations...;Analyzing+Binary+Structures...;Tracing+Memory+Artifacts...;Hunting+Vulnerabilities...;Reverse+Engineering+The+Unknown...;Building+%26+Breaking+Systems..." />
 </p>
 
 ---
