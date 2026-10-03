@@ -47,6 +47,21 @@
 </p>
 
 ---
+<h2>Selected Work</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/projects?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&repos=4lac%2Ffivem-audit%2C4lac%2Fiot-scanner%2C4lac%2FColdCase%2C4lac%2FVisual-Match-Detector&v=recruiter-projects-1&mode=light"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/projects?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&repos=4lac%2Ffivem-audit%2C4lac%2Fiot-scanner%2C4lac%2FColdCase%2C4lac%2FVisual-Match-Detector&v=recruiter-projects-1&mode=dark"
+    width="100%"
+    alt="Ruyuf selected projects"
+  />
+</picture>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -56,12 +71,14 @@
 <a href="https://github.com/4lac/fivem-audit">fivem-audit</a>
 </h3>
 
-<p>
-Passive security auditor for FiveM servers.
-</p>
+<p>Passive security auditor for FiveM servers.</p>
+
+<p><sub>Python · ⭐ 0</sub></p>
 
 <p>
-<sub>Python · ⭐ 0 · 🍴 0</sub>
+<a href="https://github.com/4lac/fivem-audit">
+Read the repository →
+</a>
 </p>
 </td>
 
@@ -75,8 +92,12 @@ C-based IoT network scanner focused on discovering and identifying
 devices on local networks.
 </p>
 
+<p><sub>C · ⭐ 0</sub></p>
+
 <p>
-<sub>C · ⭐ 0 · 🍴 0</sub>
+<a href="https://github.com/4lac/iot-scanner">
+Read the repository →
+</a>
 </p>
 </td>
 
@@ -90,8 +111,12 @@ C-based forensic-style source code scanner for suspicious patterns,
 exposed secrets, and source-code anomalies.
 </p>
 
+<p><sub>C · ⭐ 0</sub></p>
+
 <p>
-<sub>C · ⭐ 0 · 🍴 0</sub>
+<a href="https://github.com/4lac/ColdCase">
+Read the repository →
+</a>
 </p>
 </td>
 
@@ -107,8 +132,12 @@ Python GUI tool for comparing images using computer vision and
 ORB feature matching.
 </p>
 
+<p><sub>Python · ⭐ 0</sub></p>
+
 <p>
-<sub>Python · ⭐ 0 · 🍴 0</sub>
+<a href="https://github.com/4lac/Visual-Match-Detector">
+Read the repository →
+</a>
 </p>
 </td>
 
