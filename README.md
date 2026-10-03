@@ -36,16 +36,14 @@
 
 ---
 
-<h2 align="center">☠️ Security Focus</h2>
+<h2 align="center">⚡ Security Focus</h2>
 
 <p align="center">
-  Vulnerability Analysis • Exploit Development • Reverse Engineering
-  <br>
-  Windows Internals • x86/x64 Assembly • Binary Analysis
-  <br>
-  Network Security • Digital Forensics • Low-Level Programming
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1800&color=00FF88&center=true&vCenter=true&width=1000&height=100&lines=Vulnerability+Analysis+%7C+Exploit+Development+%7C+Reverse+Engineering;Windows+Internals+%7C+x86%2Fx64+Assembly+%7C+Binary+Analysis;Network+Security+%7C+Digital+Forensics+%7C+Low-Level+Programming"
+    alt="Security Focus"
+  />
 </p>
-
 ---
 <h2>Selected Work</h2>
 
