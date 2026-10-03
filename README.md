@@ -4,11 +4,12 @@
 
 <br/>
 --------
+
 <p align="center">
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=IT%20Graduate%20%7C%20Cybersecurity;Offensive%20Security%20%7C%20Reverse%20Engineering"
+      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=IT%20Graduate%20%7C%20Cybersecurity%20%7C%20Offensive%20Security;Exploring%20Vulnerability%20Analysis%20%7C%20Reverse%20Engineering"
       alt=""
     />
   </a>
@@ -17,7 +18,7 @@
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=Low-Level%20Systems;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80"
+      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=Low-Level%20Systems%20%7C%20Windows%20Internals%20%7C%20Assembly;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80"
       alt=""
     />
   </a>
