@@ -104,7 +104,9 @@ Passive security auditor for FiveM servers
 
 `Python` · `0 stars`
 
-<a href="https://github.com/4lac/fivem-audit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/4lac/fivem-audit">
+  <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
+</a>
 
 </td>
 <td width="50%" valign="top">
