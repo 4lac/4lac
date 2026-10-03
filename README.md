@@ -111,4 +111,4 @@ Exploring vulnerability analysis, exploit development, programming, and low-leve
 </tr>
 </table>
 
-<p align="center"><sub>Ruyuf · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p> -- عدل لي عليه بس خليه احترافي اكثر
+<p align="center"><sub>Ruyuf · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p> -- 
