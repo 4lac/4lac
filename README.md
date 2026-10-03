@@ -17,9 +17,11 @@
       src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=IT%20Graduate%20%7C%20Cybersecurity%20%26amp%3B%20Offensive%20Security"
       alt="IT Graduate Cybersecurity Offensive Security"
     />
-   <a  src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Backend%20or%20systems%20engineer;IT%20Graduate%20%7C%20Cybersecurity%20%26amp%3B%20Offensive%20Security%0D%0AExploring%20vulnerability%20analysis%2C%20exploit%20development%2C%20programming%2C%20and%20low-level%20systems.;Building%20with%20C%20%C2%B7%20Python;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+    <br>
+=   <a  src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Backend%20or%20systems%20engineer;IT%20Graduate%20%7C%20Cybersecurity%20%26amp%3B%20Offensive%20Security%0D%0AExploring%20vulnerability%20analysis%2C%20exploit%20development%2C%20programming%2C%20and%20low-level%20systems.;Building%20with%20C%20%C2%B7%20Python;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
   </a>
 </p>
+<br/>
 <br/>
 
 <a href="https://github.com/4lac"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
