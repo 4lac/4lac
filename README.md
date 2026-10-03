@@ -48,26 +48,54 @@
 
 ---
 
-<h2 align="center">💻 Selected Work</h2>
+<h2>Selected Work</h2>
 
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="58%" valign="top">
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/projects?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&repos=4lac%2Ffivem-audit%2C4lac%2Fiot-scanner%2C4lac%2FColdCase%2C4lac%2FVisual-Match-Detector&v=recruiter-projects-1&mode=light"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/projects?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&repos=4lac%2Ffivem-audit%2C4lac%2Fiot-scanner%2C4lac%2FColdCase%2C4lac%2FVisual-Match-Detector&v=recruiter-projects-1&mode=dark"
+    width="100%"
+    alt="Selected cybersecurity projects"
+  />
+</picture>
+</td>
+
+<td width="42%" valign="top">
 
 <h3>
 <a href="https://github.com/4lac/fivem-audit">fivem-audit</a>
 </h3>
 
 <p>
-Passive security auditor for FiveM servers.
+A passive security auditing tool for FiveM servers, designed to inspect
+server resources and identify potentially suspicious or security-relevant
+artifacts.
 </p>
 
 <p>
 <sub>Python · Security Auditing</sub>
 </p>
 
+<p>
+<a href="https://github.com/4lac/fivem-audit">
+Read the repository →
+</a>
+</p>
+
 </td>
+
+</tr>
+</table>
+
+<table width="100%">
+<tr>
 
 <td width="33%" valign="top">
 
@@ -76,7 +104,9 @@ Passive security auditor for FiveM servers.
 </h3>
 
 <p>
-A C-based IoT network scanner currently exploring device discovery and identification on local networks using ARP, ICMP, SNMP, and MAC-based vendor classification.
+A C-based IoT network scanner currently focused on discovering and
+identifying devices on local networks using ARP, ICMP, SNMP, and
+MAC-based vendor classification.
 </p>
 
 <p>
@@ -92,7 +122,8 @@ A C-based IoT network scanner currently exploring device discovery and identific
 </h3>
 
 <p>
-A C-based digital forensic scanner for detecting suspicious patterns, exposed secrets, risky functions, and source-code anomalies.
+A C-based forensic-style source code scanner for detecting suspicious
+patterns, exposed secrets, risky functions, and source-code anomalies.
 </p>
 
 <p>
@@ -101,18 +132,17 @@ A C-based digital forensic scanner for detecting suspicious patterns, exposed se
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="33%" valign="top">
 
 <h3>
-<a href="https://github.com/4lac/Visual-Match-Detector">Visual-Match-Detector</a>
+<a href="https://github.com/4lac/Visual-Match-Detector">
+Visual-Match-Detector
+</a>
 </h3>
 
 <p>
-A Python GUI tool for comparing images using computer vision and ORB feature matching.
+A Python GUI application for comparing images using computer vision
+and ORB feature matching.
 </p>
 
 <p>
@@ -120,9 +150,6 @@ A Python GUI tool for comparing images using computer vision and ORB feature mat
 </p>
 
 </td>
-
-<td width="33%"></td>
-<td width="33%"></td>
 
 </tr>
 </table>
