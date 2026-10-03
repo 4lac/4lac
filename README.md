@@ -1,8 +1,8 @@
+⚡ RUYUF // CYBERSECURITY
+**IT Graduate • Cybersecurity • Offensive Security • Low-Level Systems**
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=850&height=120&lines=%E2%9A%A1+RUYUF+%2F%2F+CYBERSECURITY;IT+Graduate+%7C+Cybersecurity+%7C+Offensive+Security+%7C+Low-Level+Systems;%5B+SYSTEM+ONLINE+%5D+%5B+SECURITY+RESEARCH+%5D+%5B+BUILDING+%26+BREAKING+%5D"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;%5B+SECURITY+RESEARCH+%5D;%5B+BUILDING+%26+BREAKING+%5D" alt="Cybersecurity Status" />
 </p>
 ---
 
