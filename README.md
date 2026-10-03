@@ -46,10 +46,6 @@ Exploring vulnerability analysis, exploit development, programming, and low-leve
   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,php" />
 </p>
 
-<br/><br/>
-
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
-
 <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&amp;labelColor=0d1117" alt="C" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" />
 
 </div>
