@@ -42,7 +42,9 @@ Exploring vulnerability analysis, exploit development, programming, and low-leve
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c%2Cpython&perline=8&theme=dark" alt="Tech stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,php" />
+</p>
 
 <br/><br/>
 
