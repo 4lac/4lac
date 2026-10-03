@@ -137,7 +137,6 @@ A simple Python GUI tool for comparing two images using computer vision.
   <img src="https://www.gitskins.com/api/section/heatmap?username=4lac&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4" alt="4lac heatmap visual" />
 </p>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🏆 Beyond the Code
 
