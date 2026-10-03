@@ -3,230 +3,112 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-
-<p><sub>CYBERSECURITY · OFFENSIVE SECURITY · LOW-LEVEL SYSTEMS</sub></p>
-
+<p><sub>RECRUITER SIGNAL BRIEF · 4lac</sub></p>
 <h1>Ruyuf</h1>
+<h2>Backend or systems engineer</h2>
+<p>IT Graduate | Cybersecurity &amp; Offensive Security
+Exploring vulnerability analysis, exploit development, programming, and low-level systems.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<h2>Cybersecurity &amp; Offensive Security</h2>
-
-<p>
-IT Graduate focused on vulnerability analysis, exploit development,
-reverse engineering, programming, and low-level systems.
-</p>
-
-<p><strong>● Building security-focused projects and exploring how systems work beneath the surface.</strong></p>
-
-<p>
-<a href="https://github.com/4lac">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/ruyuf-alzaydani/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/4lavc">X</a>
-</p>
-
+<p><a href="https://github.com/4lac">GitHub</a></p>
 </td>
-
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/172062012?v=4" width="180" alt="Ruyuf GitHub avatar" />
+<img src="https://avatars.githubusercontent.com/u/172062012?u=8559f7619f4c1da4ad0958ba497c15848571d8ab&amp;v=4" width="180" alt="Ruyuf GitHub avatar" />
 </td>
 </tr>
 </table>
-
 </div>
 
----
-
-<h2>⚡ Focus Areas</h2>
+<h2>What teams can evaluate quickly</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
-<h3>🔐 Offensive Security</h3>
-<p>
-Vulnerability Analysis<br>
-Exploit Development<br>
-Security Research
-</p>
-</td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · C · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>110 contributions · 9 active days</p></td>
+</tr>
+</table>
 
-<td width="33%" valign="top">
-<h3>🧬 Reverse Engineering</h3>
-<p>
-Binary Analysis<br>
-Windows Internals<br>
-x86/x64 Assembly
-</p>
-</td>
+<p><sub>IT Graduate | Cybersecurity &amp; Offensive Security
+Exploring vulnerability analysis, exploit development, programming, and low-level systems.</sub></p>
 
-<td width="33%" valign="top">
-<h3>💻 Systems &amp; Code</h3>
-<p>
-C / C++<br>
-Python<br>
-Low-Level Programming
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>110</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ruyuf GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&repos=4lac%2Ffivem-audit%2C4lac%2Fiot-scanner%2C4lac%2FColdCase%2C4lac%2FVisual-Match-Detector&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&repos=4lac%2Ffivem-audit%2C4lac%2Fiot-scanner%2C4lac%2FColdCase%2C4lac%2FVisual-Match-Detector&v=recruiter-projects-1&mode=dark" width="100%" alt="Ruyuf selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/4lac/fivem-audit">fivem-audit</a></h3>
+<p>Passive security auditor for FiveM servers</p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/4lac/fivem-audit">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
----
-
-<h2>🛠️ Technical Toolkit</h2>
-
-<h3>Languages</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,php,mysql" />
-</p>
-
-<h3>Security &amp; Development</h3>
-
-<p align="center">
-<code>IDA Pro</code>
-<code>Ghidra</code>
-<code>WinDbg</code>
-<code>x64dbg</code>
-<code>radare2</code>
-<code>WSL</code>
-<code>Linux</code>
-<code>Git</code>
-</p>
-
----
-
-<h2>🔬 Selected Projects</h2>
-
 <table width="100%">
-
 <tr>
-<td width="50%" valign="top">
-
-<h3>📡 <a href="https://github.com/4lac/iot-scanner">IoT-Scanner</a></h3>
-
-<p>
-C-based IoT network mapper focused on discovering and identifying
-devices through low-level network probing.
-</p>
-
-<p>
-<code>C</code> · <code>ARP</code> · <code>ICMP</code> · <code>SNMP</code> · <code>Raw Sockets</code>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🧊 <a href="https://github.com/4lac/ColdCase">ColdCase</a></h3>
-
-<p>
-Forensic-style C scanner that analyzes source code for suspicious
-patterns, exposed secrets, risky functions, and metadata anomalies.
-</p>
-
-<p>
-<code>C</code> · <code>Static Analysis</code> · <code>Forensics</code>
-</p>
-
-</td>
+<td width="33%" valign="top"><h3><a href="https://github.com/4lac/iot-scanner">iot-scanner</a></h3><p>Multi-stage IoT device scanner using ARP, ICMP, SNMP and MAC-based vendor classification.</p><p><sub>C · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/4lac/ColdCase">ColdCase</a></h3><p>ColdCase — A digital forensic scanner that investigates source code files, detects anomalies like TODOs, password leaks, eval usage, and FIXMEs, and g</p><p><sub>C · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/4lac/Visual-Match-Detector">Visual-Match-Detector</a></h3><p>A simple Python GUI tool for comparing two images using computer vision.</p><p><sub>Python · ⭐ 0</sub></p></td>
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🖼️ <a href="https://github.com/4lac/Visual-Match-Detector">Visual Match Detector</a></h3>
-
-<p>
-Python GUI application using computer vision and ORB feature matching
-to compare images and identify visual similarities.
-</p>
-
-<p>
-<code>Python</code> · <code>OpenCV</code> · <code>ORB</code>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🛡️ <a href="https://github.com/4lac/fivem-audit">FiveM Audit</a></h3>
-
-<p>
-Passive security auditing tool for FiveM server resources and
-security-related configuration checks.
-</p>
-
-<p>
-<code>Python</code> · <code>Security Auditing</code>
-</p>
-
-</td>
-
-</tr>
-
 </table>
 
----
-
-<h2>📚 Currently Exploring</h2>
+<h2>Technical toolkit</h2>
 
 <p align="center">
-
-<code>Exploit Development</code> <code>Reverse Engineering</code> <code>Windows Internals</code> <code>Assembly</code> <code>Vulnerability Analysis</code>
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Ruyuf technology stack" />
+</picture>
 </p>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center"><strong>C</strong><br /><sub>61% of public code</sub></td>
+<td width="50%" align="center"><strong>Python</strong><br /><sub>39% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
 
 <p align="center">
-<strong>Learning how software works, finding where it breaks, and understanding why.</strong>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=4lac&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172062012%3Fu%3D8559f7619f4c1da4ad0958ba497c15848571d8ab%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ruyuf contribution activity" />
+</picture>
 </p>
 
----
+<hr />
 
-<h2>📊 GitHub Activity</h2>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/4lac">GitHub</a></td>
+</tr>
+</table>
 
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=4lac&show_icons=true&hide_border=true&theme=github_dark&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=4lac&theme=github-dark&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"
-/>
-
-</p>
-
----
-
-<h2>🌐 Connect</h2>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ruyuf-alzaydani/">
-<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
-</a>
-
-<a href="https://x.com/4lavc">
-<img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=00FF88" />
-</a>
-
-<a href="https://discord.com/users/4lax_8292">
-<img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=00FF88" />
-</a>
-
-<a href="https://www.twitch.tv/4lavc">
-<img src="https://img.shields.io/badge/Twitch-0A0A0A?style=for-the-badge&logo=twitch&logoColor=00FF88" />
-</a>
-
-</p>
-
-<p align="center">
-<code>root@ruyuf:~$ whoami</code>
-<br>
-<sub>Cybersecurity enthusiast exploring systems, vulnerabilities &amp; code.</sub>
-</p>
+<p align="center"><sub>Ruyuf · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p> -- عدل لي عليه بس خليه احترافي اكثر
