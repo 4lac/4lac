@@ -26,7 +26,16 @@
 
 <br/>
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=4lac&style=for-the-badge&color=7B5CFF&label=PROFILE+VIEWS" alt="Profile views" />
+
+<a href="https://github.com/4lac?tab=followers">
+  <img src="https://img.shields.io/github/followers/4lac?style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&color=00FFA3" alt="GitHub followers" />
+</a>
+
+<br>
+<br>
 ## 🤝 Let's Build Something Meaningful
 
 I build useful software and enjoy turning ambitious ideas into working products.
@@ -41,14 +50,8 @@ I build useful software and enjoy turning ambitious ideas into working products.
 
 <a href="https://x.com/4lavc">
   <img src="https://cdn.simpleicons.org/x/7DF9FF" width="32" alt="X" />
-</a>
+</a> 
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=4lac&style=for-the-badge&color=7B5CFF&label=PROFILE+VIEWS" alt="Profile views" />
-<a href="https://github.com/4lac?tab=followers">
-  <img src="https://img.shields.io/github/followers/4lac?style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&color=00FFA3" alt="GitHub followers" />
-</a>
- </br>
 </div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
