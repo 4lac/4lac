@@ -88,6 +88,9 @@ Exploring vulnerability analysis, exploit development, programming, and low-leve
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 ## 🌌 Featured Projects
 
 <table>
