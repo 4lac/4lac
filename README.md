@@ -153,8 +153,4 @@ I build useful software and enjoy turning ambitious ideas into working products.
 
 <a href="https://github.com/4lac"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
 
-<br/><br/>
-
-***⭐ From [Ruyuf](https://github.com/4lac) · built with code, AI & a little chaos 😈***
-
 </div>
