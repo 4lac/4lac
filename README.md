@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=4lac&theme=neon&role=Backend%20or%20systems%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Ruyuf profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=4lac&theme=neon&role=Exploit%20Development%20%26%20Offensive%20Security&location=Riyadh%2C%20Saudi%20Arabia&v=readme-reference-2" width="100%" alt="Ruyuf profile banner" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=IT%20Graduate%20%7C%20Cybersecurity%20%7C%20Offensive%20Security;Exploring%20Vulnerability%20Analysis%20%7C%20Reverse%20Engineering"
+      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=I%20turn%20crashes%20into%20working%20exploits;Exploit%20Development%20%7C%20Binary%20Exploitation%20%7C%20Reverse%20Engineering"
       alt=""
     />
   </a>
@@ -39,7 +39,11 @@
 
 ## 🤝 Let's Build Something Meaningful
 
-I build useful software and enjoy turning ambitious ideas into working products.
+Most security findings stop at *"potentially exploitable."* I focus on what comes next: proving it.
+
+<a href="https://www.linkedin.com/in/ruyuf-alzaydani/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" height="32" alt="LinkedIn" />
+</a>
 
 <a href="https://github.com/4lac">
   <img src="https://cdn.simpleicons.org/github/7DF9FF" width="32" alt="GitHub" />
@@ -62,16 +66,16 @@ I build useful software and enjoy turning ambitious ideas into working products.
 ```typescript
 const 4lac: Developer = {
   name:      "Ruyuf",
-  role:      "Backend or systems engineer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["C", "Python"],
+  role:      "Exploit developer · Offensive security",
+  location:  "Riyadh, Saudi Arabia",
+  currently: "building exploits & security tooling",
+  stack:     ["C", "C++", "Python", "x86/x64 Assembly"],
   mantra:    "Make useful things, then make them delightful 🚀",
 };
 ```
 
-> IT Graduate | Cybersecurity &amp; Offensive Security
-Exploring vulnerability analysis, exploit development, programming, and low-level systems.
+> IT Graduate | Offensive Security
+> Windows exploit development, binary exploitation, reverse engineering, and low-level systems.
 > 
 > **Collaborations welcome when they are meaningful 🤝**
 
@@ -97,6 +101,7 @@ Exploring vulnerability analysis, exploit development, programming, and low-leve
   <code>WinDbg</code>
   <code>x64dbg</code>
   <code>radare2</code>
+  <code>rp++</code>
   <code>WSL</code>
 </p>
 
@@ -144,7 +149,7 @@ Multi-stage IoT device scanner using ARP, ICMP, SNMP and MAC-based vendor classi
 
 **ColdCase**
 
-ColdCase — A digital forensic scanner that investigates source code files, detects anomalies like TODOs, password leaks, eval usage, and FIXMEs, and generates a narrative forensic report. Designed and narrated by Riyouf.
+A digital forensic scanner that investigates source code files, detects anomalies like TODOs, password leaks, eval usage, and FIXMEs, and generates a narrative forensic report.
 
 `C`
 
@@ -174,6 +179,8 @@ A simple Python GUI tool for comparing two images using computer vision.
 
 <br/>
 
+**[FiveM-Resource-Analyzer](https://github.com/4lac/FiveM-Resource-Analyzer)** · `Python` — Static analyzer for detecting duplicate, similar, and related functions in FiveM resources.
+
 </details>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
@@ -198,10 +205,10 @@ A simple Python GUI tool for comparing two images using computer vision.
 
 ## 🏆 Beyond the Code
 
-* 🧠 **Profile signal:** 128 contributions in the last year
-* 🚀 **Builder energy:** 5 public repositories
-* 💻 **Focused on:** Cybersecurity, software development & low-level systems
-* 🗣️ **Open to:** interesting collaborations and useful products
+* 🧠 **Focused on:** Windows exploit development, binary exploitation & reverse engineering
+* 🛠️ **Building:** security tools in C and Python
+* 📍 **Based in:** Riyadh, Saudi Arabia
+* 🗣️ **Open to:** exploit development, vulnerability research & penetration testing roles
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
