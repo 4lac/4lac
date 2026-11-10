@@ -113,7 +113,9 @@ const 4lac: Developer = {
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## 🌌 Featured Projects
+## ❄️ R/ICE Tools
+
+<p align="center"><i>My collection of security tools — built from scratch, one at a time.</i></p>
 
 <table>
 <tr>
