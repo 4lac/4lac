@@ -1,90 +1,208 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Exploit Development · Reverse Engineering" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=700&height=40&lines=%3E+I+turn+crashes+into+working+exploits_;%3E+Exploit+Development+%C2%B7+Binary+Exploitation_;%3E+Reverse+Engineering+%C2%B7+Windows+Internals_" alt="I turn crashes into working exploits" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=4lac&theme=neon&role=Backend%20or%20systems%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Ruyuf profile banner" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ruyuf-alzaydani/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3FB950" alt="LinkedIn" /></a>
-<a href="https://x.com/4lavc"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=3FB950" alt="X" /></a>
+<p align="center">
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=IT%20Graduate%20%7C%20Cybersecurity%20%7C%20Offensive%20Security;Exploring%20Vulnerability%20Analysis%20%7C%20Reverse%20Engineering"
+      alt=""
+    />
+  </a>
+
+  <br>
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=1100&height=66&lines=Low-Level%20Systems%20%7C%20Windows%20Internals%20%7C%20Assembly;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80"
+      alt=""
+    />
+  </a>
+
+</p>
+
+<br/>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=4lac&style=for-the-badge&color=7B5CFF&label=PROFILE+VIEWS" alt="Profile views" />
+
+<a href="https://github.com/4lac?tab=followers">
+  <img src="https://img.shields.io/github/followers/4lac?style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&color=00FFA3" alt="GitHub followers" />
+</a>
+
+<br>
+<br>
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="https://github.com/4lac">
+  <img src="https://cdn.simpleicons.org/github/7DF9FF" width="32" alt="GitHub" />
+</a>
+
+<a href="https://discord.com/users/4lax_8292">
+  <img src="https://cdn.simpleicons.org/discord/7DF9FF" width="32" alt="Discord" />
+</a>
+
+<a href="https://x.com/4lavc">
+  <img src="https://cdn.simpleicons.org/x/7DF9FF" width="32" alt="X" />
+</a> 
 
 </div>
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-### `$ whoami`
+## ⚡ whoami
 
-**Ruyuf Alzaydani** — Information Technology graduate (Taif University) focused on offensive security, Windows exploit development, and binary exploitation. Based in Riyadh.
-
-Most security findings stop at *"potentially exploitable."* I focus on what comes next: proving it.
-
-### `$ cat focus.txt`
-
-```text
-[+] Memory corruption on Windows — stack buffer overflows, SEH overwrites
-[+] DEP bypass with ROP chains (VirtualAlloc, WriteProcessMemory)
-[+] ASLR bypass via address leaks
-[+] Reverse engineering and static/dynamic analysis of binaries
-[+] Building my own security tooling in C and Python
+```typescript
+const 4lac: Developer = {
+  name:      "Ruyuf",
+  role:      "Backend or systems engineer",
+  location:  "Building from the open web",
+  currently: "building in public",
+  stack:     ["C", "Python"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
 ```
 
-### `$ ls ~/tools`
+> IT Graduate | Cybersecurity &amp; Offensive Security
+Exploring vulnerability analysis, exploit development, programming, and low-level systems.
+> 
+> **Collaborations welcome when they are meaningful 🤝**
 
-<p>
-  <code>IDA Pro</code> <code>Ghidra</code> <code>WinDbg</code> <code>x64dbg</code> <code>radare2</code> <code>rp++</code> <code>WSL</code>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🛠️ Tech Stack & Arsenal
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,php" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,git&theme=dark" alt="C, C++, Python, Linux, Git" />
-  &nbsp;+ x86/x64 Assembly
+<h3 align="center">🔐 Security & Reverse Engineering</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git" />
 </p>
 
----
+<p align="center">
+  <code>IDA Pro</code>
+  <code>Ghidra</code>
+  <code>WinDbg</code>
+  <code>x64dbg</code>
+  <code>radare2</code>
+  <code>WSL</code>
+</p>
 
-### `$ ls ~/projects`
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[iot-scanner](https://github.com/4lac/iot-scanner)** · `C`
+**fivem-audit**
 
-Multi-stage IoT device scanner over raw sockets — ARP, ICMP and SNMP discovery with MAC-based vendor classification.
+Passive security auditor for FiveM servers
+
+`Python`
+
+<a href="https://github.com/4lac/fivem-audit">
+  <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-**[ColdCase](https://github.com/4lac/ColdCase)** · `C`
+**iot-scanner**
 
-Static source-code scanner that flags hardcoded passwords, unsafe functions, `eval` usage and leftover TODO/FIXME markers, then generates a forensic-style report.
+Multi-stage IoT device scanner using ARP, ICMP, SNMP and MAC-based vendor classification.
+
+`C`
+
+<a href="https://github.com/4lac/iot-scanner">
+  <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[fivem-audit](https://github.com/4lac/fivem-audit)** · `Python`
+**ColdCase**
 
-Passive security auditor for FiveM game servers, with remote and local modes.
+ColdCase — A digital forensic scanner that investigates source code files, detects anomalies like TODOs, password leaks, eval usage, and FIXMEs, and generates a narrative forensic report. Designed and narrated by Riyouf.
+
+`C`
+
+<a href="https://github.com/4lac/ColdCase">
+  <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-**[FiveM-Resource-Analyzer](https://github.com/4lac/FiveM-Resource-Analyzer)** · `Python`
+**Visual-Match-Detector**
 
-Static analyzer that detects duplicate, similar and related functions across FiveM resources.
+A simple Python GUI tool for comparing two images using computer vision.
+
+`Python`
+
+<a href="https://github.com/4lac/Visual-Match-Detector">
+  <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
+</a>
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
+
+<br/>
+
+</details>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-`Open to exploit development, vulnerability research, and penetration testing roles — Riyadh or remote.`
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=4lac&show_icons=true&hide_border=true&title_color=7df9ff&icon_color=00ffa3&text_color=c9d4e0&bg_color=0d1117" alt="GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lac&layout=compact&hide_border=true&langs_count=8&title_color=7df9ff&text_color=c9d4e0&bg_color=0d1117" alt="Top languages" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=4lac&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" />
+</div>
+
+## 🏆 Beyond the Code
+
+* 🧠 **Profile signal:** 128 contributions in the last year
+* 🚀 **Builder energy:** 5 public repositories
+* 💻 **Focused on:** Cybersecurity, software development & low-level systems
+* 🗣️ **Open to:** interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 </div>
