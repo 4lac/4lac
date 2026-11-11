@@ -172,6 +172,7 @@ Face verification across time using ArcFace and SFace — <b>99.5% accuracy</b> 
 
 **[FiveM-Resource-Analyzer](https://github.com/4lac/FiveM-Resource-Analyzer)** · `Python` — Static analyzer for detecting duplicate, similar, and related functions in FiveM resources.
 
+**[ticket-report-bot](https://github.com/4lac/ticket-report-bot)** · `Node.js` — Discord bot that automates weekly and monthly support-team reports for FiveM roleplay servers, with image reports and Friday auto-posting.
 </details>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=4lac&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
