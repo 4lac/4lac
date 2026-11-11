@@ -180,11 +180,7 @@ Face verification across time using ArcFace and SFace — <b>99.5% accuracy</b> 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=4lac&show_icons=true&hide_border=true&title_color=7df9ff&icon_color=00ffa3&text_color=c9d4e0&bg_color=0d1117" alt="GitHub stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lac&layout=compact&hide_border=true&langs_count=8&title_color=7df9ff&text_color=c9d4e0&bg_color=0d1117" alt="Top languages" />
-
-<br/>
 
 <img src="https://www.gitskins.com/api/section/heatmap?username=4lac&theme=neon&style=aura" width="100%" alt="Contribution activity" />
 
