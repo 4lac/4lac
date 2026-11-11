@@ -121,19 +121,6 @@ const 4lac: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-**fivem-audit**
-
-Passive security auditor for FiveM servers
-
-`Python`
-
-<a href="https://github.com/4lac/fivem-audit">
-  <img src="https://img.shields.io/badge/VIEW%20CODE-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="View Code" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
 **iot-scanner**
 
 Multi-stage IoT device scanner using ARP, ICMP, SNMP and MAC-based vendor classification.
@@ -145,8 +132,6 @@ Multi-stage IoT device scanner using ARP, ICMP, SNMP and MAC-based vendor classi
 </a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **ColdCase**
@@ -160,11 +145,13 @@ A digital forensic scanner that investigates source code files, detects anomalie
 </a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 **Visual-Match-Detector**
 
-A simple Python GUI tool for comparing two images using computer vision.
+Face verification across time using ArcFace and SFace — <b>99.5% accuracy</b> on the CACD-VS cross-age benchmark.
 
 `Python`
 
@@ -177,9 +164,11 @@ A simple Python GUI tool for comparing two images using computer vision.
 </table>
 
 <details>
-<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
+<summary><b>Other projects</b> &nbsp;<i>(click to expand)</i></summary>
 
 <br/>
+
+**[fivem-audit](https://github.com/4lac/fivem-audit)** · `Python` — Passive security auditor for FiveM servers (public endpoints, open ports, and Lua/JS backdoor patterns).
 
 **[FiveM-Resource-Analyzer](https://github.com/4lac/FiveM-Resource-Analyzer)** · `Python` — Static analyzer for detecting duplicate, similar, and related functions in FiveM resources.
 
